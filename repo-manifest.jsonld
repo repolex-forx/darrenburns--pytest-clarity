@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/darrenburns/pytest-clarity/commit/533056491c6b4e18cce54286cdb3a692a0392780",
       "git:hexsha": "533056491c6b4e18cce54286cdb3a692a0392780",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
