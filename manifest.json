@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "darrenburns",
+  "repo": "pytest-clarity",
+  "versions": [
+    {
+      "commit": "533056491c6b4e18cce54286cdb3a692a0392780",
+      "parsed_at": "2026-10-12T22:55:31.452086+00:00",
+      "filetree": "filetree/533056491c6b4e18cce54286cdb3a692a0392780.nq.gz",
+      "blobs": [
+        "blob/1ada606d9a0bed7cac56679b88708b516f8419a5.nq.gz",
+        "blob/eb322f20fcfd6ef5d6622f70baa181711d0e28a8.nq.gz",
+        "blob/bcfe01895d6b9b44b6854d08ac2a092eaaef1905.nq.gz",
+        "blob/4bb234219a6eb21bb07c1c2d9b7a4287ea5be3fd.nq.gz",
+        "blob/27ab4d45fb42ac18296fcaac11a3132d402cf71d.nq.gz",
+        "blob/0ab1cf12b345eb44e4c79bdb87075982c28ddec4.nq.gz",
+        "blob/6a743225262ab78b634e5b92b7997cd1b53b9505.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/aabb4cbd10bf93ec6674ffe9de028ddd78b4dcc1.nq.gz",
+        "blob/67075d70a5271af629302bc2a5c16ed966cc2af0.nq.gz",
+        "blob/ba6dacef60876b0a0e0b523ae7f6ad69866c421c.nq.gz",
+        "blob/3800dd21a337b7430df7f5341ecff4ff5ce7cfad.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
